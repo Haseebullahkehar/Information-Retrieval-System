@@ -1,1 +1,1 @@
-# Information-Retrieval-System
+# RAG-Retrieval_Augmented_Generation
